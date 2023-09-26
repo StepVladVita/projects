@@ -1,4 +1,4 @@
-| Left-Aligned  | Center Aligned  | Right Aligned |
+| Название проекта | Описание  | 	Используемые библиотеки |
 |:------------- |:---------------:| -------------:|
 | Row 1         | **Bold**        | Cell 3        |
 | Row 2         | *Italic*        | Cell 6        |
